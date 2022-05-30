@@ -1,2 +1,2 @@
 # ML_for_business
-GeekBrains, GB
+GeekBrains, GB 2022 year.
